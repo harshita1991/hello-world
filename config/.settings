@@ -1,0 +1,18 @@
+{
+    "projectName": "Developer Org",
+    "username": "hkhandelwal@dev.org",
+    "id": "797538c0-534e-11e8-917d-6dfb16a38d7d",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap5.salesforce.com",
+    "workspace": "/Users/harshitakhandelwal/Mavens_Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "Layout",
+        "StaticResource"
+    ]
+}

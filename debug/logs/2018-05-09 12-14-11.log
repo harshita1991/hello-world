@@ -1,0 +1,29 @@
+36.0 APEX_CODE,DEBUG;APEX_PROFILING,INFO;CALLOUT,INFO;DB,INFO;SYSTEM,DEBUG;VALIDATION,INFO;VISUALFORCE,DEBUG;WAVE,INFO;WORKFLOW,INFO
+Execute Anonymous: DemoApexClass test = new DemoApexClass();
+23:44:11.6 (6347312)|USER_INFO|[EXTERNAL]|0057F0000031HvQ|hkhandelwal@dev.org|Pacific Standard Time|GMT-07:00
+23:44:11.6 (6367573)|EXECUTION_STARTED
+23:44:11.6 (6371888)|CODE_UNIT_STARTED|[EXTERNAL]|execute_anonymous_apex
+23:44:11.6 (8036744)|SYSTEM_MODE_ENTER|false
+23:44:11.6 (8049030)|SYSTEM_MODE_EXIT|false
+23:44:11.6 (8085614)|SYSTEM_MODE_ENTER|false
+23:44:11.6 (8244225)|USER_DEBUG|[3]|DEBUG|Demo Debug
+23:44:11.6 (8289703)|SYSTEM_MODE_EXIT|false
+23:44:11.8 (8316895)|CUMULATIVE_LIMIT_USAGE
+23:44:11.8 (8316895)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+23:44:11.8 (8316895)|CUMULATIVE_LIMIT_USAGE_END
+
+23:44:11.6 (8344326)|CODE_UNIT_FINISHED|execute_anonymous_apex
+23:44:11.6 (9338849)|EXECUTION_FINISHED

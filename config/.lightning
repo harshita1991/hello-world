@@ -1,0 +1,87 @@
+[
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad7F000000qADnSAM"
+        },
+        "Id": "0Ad7F000000qADnSAM",
+        "AuraDefinitionBundleId": "0Ab7F000000RNtdSAG",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab7F000000RNtdSAG"
+            },
+            "DeveloperName": "SelectContractForQuote"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad7F000000qADoSAM"
+        },
+        "Id": "0Ad7F000000qADoSAM",
+        "AuraDefinitionBundleId": "0Ab7F000000RNtdSAG",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab7F000000RNtdSAG"
+            },
+            "DeveloperName": "SelectContractForQuote"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad7F000000qADpSAM"
+        },
+        "Id": "0Ad7F000000qADpSAM",
+        "AuraDefinitionBundleId": "0Ab7F000000RNteSAG",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab7F000000RNteSAG"
+            },
+            "DeveloperName": "CPQPanel"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad7F000000qADqSAM"
+        },
+        "Id": "0Ad7F000000qADqSAM",
+        "AuraDefinitionBundleId": "0Ab7F000000RNteSAG",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab7F000000RNteSAG"
+            },
+            "DeveloperName": "CPQPanel"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad7F000000qADrSAM"
+        },
+        "Id": "0Ad7F000000qADrSAM",
+        "AuraDefinitionBundleId": "0Ab7F000000RNtfSAG",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab7F000000RNtfSAG"
+            },
+            "DeveloperName": "defaultTokens"
+        },
+        "DefType": "TOKENS",
+        "Format": "XML"
+    }
+]
